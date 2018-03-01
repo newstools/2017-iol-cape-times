@@ -1,0 +1,35 @@
+Washington - Cyber security watchdogs and researchers
+are issuing warnings over risks associated with a widely used
+system for securing Wi-Fi communications after the discovery of
+a flaw that could allow hackers to read information thought to
+be encrypted, or infect websites with malware. An alert from the U.S. Department of Homeland Security
+Computer Emergency Response Team on Monday said the flaw could
+be used within range of Wi-Fi using the WPA2 protocol to hijack
+private communications. It recommended installing vendor updates
+on affected products, such as routers provided by Cisco Systems
+Inc or Juniper Networks Inc. Belgian researchers Mathy Vanhoef and Frank Piessens of
+Belgian university KU Leuven disclosed the bug in WPA2, which
+secures modern Wi-Fi systems used by vendors for wireless
+communications between mobile phones, laptops and other
+connected devices with Internet-connected routers or hot spots. "If your device supports Wi-Fi, it is most likely affected,"
+they said on the www.krackattacks.com website, which they set up
+to provide technical information about the flaw and methods
+hackers might use to attack vulnerable devices. It was not immediately clear how difficult it would be for
+hackers to exploit the bug, or if the vulnerability has
+previously been used to launch any attacks. Finnish security firm F-Secure said experts have long been
+cautious about Wi-Fi's ability to withstand security challenges
+of the 21st century. "But the worst part of it is that it's an issue with Wi-Fi
+protocols, which means it affects practically every single
+person in the world that uses Wi-Fi networks," it said on its
+website. Microsoft Corp said it had released a security
+update for Windows. Customers who applied the update, or had
+automatic updates enabled, would already be protected, it said
+in a statement emailed to Reuters. CERT New Zealand and CERT India asked users to apply
+security updates. CERT NZ suggested using ethernet cables and to
+connect directly into the network, when possible. "Given the complexity of updating smart devices such as
+mobile phones, CERT NZ also strongly recommends disabling Wi-Fi
+when it isn't required," it said in its advisory. The Wi-Fi Alliance, an industry group that represents
+hundreds of Wi-Fi technology companies, said the issue "could be
+resolved through a straightforward software update". The group said in a statement it had advised members to
+release patches quickly and recommended that consumers quickly
+install those security updates. Reuters
